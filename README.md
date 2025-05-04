@@ -1,27 +1,11 @@
 # TFTUnlock 2024
 
-<p align="center">
-  <img src="prewview.PNG" alt="TFTUnlock 2024 Preview" width="800">
-</p>
-
-<div align="center">
-  
-  ![Version](https://img.shields.io/badge/Version-4.6.3.3-brightgreen?style=flat-square)
-  ![Size](https://img.shields.io/badge/Size-~275MB-informational?style=flat-square)
-  
-</div>
+[img]()
+[download]()
 
 ## 📋 Overview
 
 Welcome to the **TFTUnlock 2024** tutorial! This comprehensive guide will walk you through setting up the TFT module on your device, offering solutions for various Android and iOS device issues.
-
-## 🎬 Video Tutorial
-
-<p align="center">
-  <a href="https://youtu.be/VG7nafRghIM?si=lJK3S2YxPLldY_n9" target="_blank">
-    <img src="http://img.youtube.com/vi/VG7nafRghIM/0.jpg" alt="TFTUnlock 2024 Video Tutorial" width="600">
-  </a>
-</p>
 
 ## ✨ Key Features
 
